@@ -1,2 +1,2 @@
 # hello-world
-Exploring Github
+Exploring Github. Learning the ins and outs.
